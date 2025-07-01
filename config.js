@@ -100,8 +100,7 @@ var config = {
             hidden: false,
             title: 'Mapa EPM Ataques de Lobos',
             image: './assets/mapa-epm-ataques-lobos.png',
-            description: 'Del lado contrario a los científicos, se encuentran los ganaderos y habitantes del mundo rural en toda Europa. Un grupo de ganaderos franceses de la zona de los Vosgos ha creado un mapa interactivo en el que cualquier ganadero puede registrar, de manera rápida y sencilla, los ataques que sufren. La imagen muestra los ataques geolocalizados en ese mapa en los alrededores de mi pueblo.<br>. Según los sucesos registrados en este mapa, el lobo vive en  la comarca del valle y quizá algún día, alguien pueda decir: ¡sí, yo sí he visto al lobo en nuetsra sierra!.
-             <a href="https://ep-map.com/map" title="Link title">Mapa de ataques del lobo en Europa</a> ',
+            description: 'Del lado contrario a los científicos, se encuentran los ganaderos y habitantes del mundo rural en toda Europa. Un grupo de ganaderos franceses de la zona de los Vosgos ha creado un mapa interactivo en el que cualquier ganadero puede registrar, de manera rápida y sencilla, los ataques que sufren. La imagen muestra los ataques geolocalizados en ese mapa en los alrededores de mi pueblo.<br>. Según los sucesos registrados en este mapa, el lobo vive en  la comarca del valle y quizá algún día, alguien pueda decir: ¡sí, yo sí he visto al lobo en nuetsra sierra!.',
             location: {
                 center: [ -2.8175058540464875, 49.54826528088873],
                 zoom: 4.5,
